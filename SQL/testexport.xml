@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">startCall</Data></Cell>
+			<Cell><Data ss:Type="String">startRepair</Data></Cell>
+			<Cell><Data ss:Type="String">finishTime</Data></Cell>
+			<Cell><Data ss:Type="String">detailNG</Data></Cell>
+			<Cell><Data ss:Type="String">actionTaken</Data></Cell>
+			<Cell><Data ss:Type="String">repairBy</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">20.44</Data></Cell>
+			<Cell><Data ss:Type="Number">20.45</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">solder short</Data></Cell>
+			<Cell><Data ss:Type="String">setting position</Data></Cell>
+			<Cell><Data ss:Type="String">Andrey</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20.44</Data></Cell>
+			<Cell><Data ss:Type="Number">20.45</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">solder short</Data></Cell>
+			<Cell><Data ss:Type="String">setting position</Data></Cell>
+			<Cell><Data ss:Type="String">Andrey</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20.44</Data></Cell>
+			<Cell><Data ss:Type="Number">20.45</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">solder short</Data></Cell>
+			<Cell><Data ss:Type="String">setting position</Data></Cell>
+			<Cell><Data ss:Type="String">Andrey</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">20.44</Data></Cell>
+			<Cell><Data ss:Type="Number">20.45</Data></Cell>
+			<Cell><Data ss:Type="Number">22</Data></Cell>
+			<Cell><Data ss:Type="String">solder short</Data></Cell>
+			<Cell><Data ss:Type="String">setting position</Data></Cell>
+			<Cell><Data ss:Type="String">Andrey</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

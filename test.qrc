@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Logo siix.png</file>
+    <file>border.png</file>
+  </qresource>
+</RCC>
